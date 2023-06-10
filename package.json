@@ -1,0 +1,25 @@
+{
+  "name": "bull-board-docker",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node-dev .",
+    "build": "tsc"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "@bull-board/fastify": "5.2.0",
+    "bull": "^4.10",
+    "bullmq": "^3.15",
+    "dotenv": "^16.1",
+    "fastify": "^4.17"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2",
+    "@types/redis-info": "^3.0",
+    "ts-node": "^10.9",
+    "ts-node-dev": "^2.0",
+    "typescript": "^5.1"
+  }
+}

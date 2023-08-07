@@ -10,7 +10,7 @@ GitHub repository: [MattSyms/bull-board-docker](https://github.com/MattSyms/bull
 
 ## Usage
 
-Run a Bull Dashboard container with UI published at [localhost:8080](http://localhost:8080):
+Running a Bull Dashboard container with UI published at [localhost:8080](http://localhost:8080):
 
 ```
 docker run \

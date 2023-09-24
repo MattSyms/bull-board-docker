@@ -9,17 +9,17 @@
     "node": "18"
   },
   "dependencies": {
-    "@bull-board/fastify": "5.7.2",
-    "bull": "^4.10",
-    "bullmq": "^3.15",
-    "dotenv": "^16.1",
-    "fastify": "^4.17"
+    "@bull-board/fastify": "5.8.4",
+    "bull": "^4.11",
+    "bullmq": "^4.11",
+    "dotenv": "^16.3",
+    "fastify": "^4.23"
   },
   "devDependencies": {
-    "@types/node": "^20.2",
+    "@types/node": "^20.6",
     "@types/redis-info": "^3.0",
     "ts-node": "^10.9",
     "ts-node-dev": "^2.0",
-    "typescript": "^5.1"
+    "typescript": "^5.2"
   }
 }
